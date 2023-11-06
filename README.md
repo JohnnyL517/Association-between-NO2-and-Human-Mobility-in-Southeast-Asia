@@ -1,7 +1,7 @@
 # Spatio-Temporal Patterns of NO2 Level & Human Mobility Through the Variants of COVID-19 in South-East Asia
 
-> This is an **open-source project** and you are very welcome to contribute your comments, questions, resources, and apps as [issues](https://github.com/liyangyang515/Spatio-Temporal-Patterns-of-NO2-and-Mobility-Through-the-Variants-of-COVID-19-in-SEA/issues) or 
-> [pull requests](https://github.com/liyangyang515/Spatio-Temporal-Patterns-of-NO2-and-Mobility-Through-the-Variants-of-COVID-19-in-SEA/pulls) to the [GitHub repository](https://github.com/liyangyang515/Spatio-Temporal-Patterns-of-NO2-and-Mobility-Through-the-Variants-of-COVID-19-in-SEA).
+> This is an **open-source project** and you are very welcome to contribute your comments, questions, resources, and apps as [issues](https://github.com/JohnnyL517/Association-between-NO2-and-Human-Mobility-in-Southeast-Asia/issues) or 
+> [pull requests](https://github.com/JohnnyL517/Association-between-NO2-and-Human-Mobility-in-Southeast-Asia/pulls) to the [GitHub repository](https://github.com/JohnnyL517/Association-between-NO2-and-Human-Mobility-in-Southeast-Asia).
         
 <br>
 
